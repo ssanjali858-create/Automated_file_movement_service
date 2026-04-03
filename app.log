@@ -1,0 +1,11 @@
+2026-04-02 14:49:47,335 - ERROR - Source folder error: [WinError 3] The system cannot find the path specified: 'C:/Users/ssanj/Desktop/source'
+2026-04-02 14:52:47,845 - ERROR - Source folder error: [WinError 3] The system cannot find the path specified: 'C:/Users/ssanj/Documents/source'
+2026-04-02 14:55:15,991 - INFO - Moved test1.txt.txt to C:/Users/ssanj/OneDrive/Desktop/destination
+2026-04-02 14:55:15,997 - INFO - Moved test2.txt.txt to C:/Users/ssanj/OneDrive/Desktop/destination
+2026-04-03 11:52:37,710 - ERROR - Source folder error: [WinError 3] The system cannot find the path specified: 'C:/Users/ssanj/OneDrive/Documents/file_moverproject/source'
+2026-04-03 12:08:51,303 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2026-04-03 12:08:51,303 - INFO - [33mPress CTRL+C to quit[0m
+2026-04-03 12:16:32,051 - ERROR - Source folder error: [WinError 3] The system cannot find the path specified: 'C:/Users/ssanj/OneDrive/Documents/source_folder'
